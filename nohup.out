@@ -1,0 +1,204 @@
+TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[H[2J[3J██████╗░░█████╗░███╗░░░███╗███████╗██╗░░██╗
+██╔══██╗██╔══██╗████╗░████║██╔════╝╚██╗██╔╝
+██████╔╝███████║██╔████╔██║█████╗░░░╚███╔╝░
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══╝░░░██╔██╗░
+██║░░██║██║░░██║██║░╚═╝░██║███████╗██╔╝╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚═╝
+░░██╗██╗░░░░█████╗░
+░██╔╝██║░░░██╔══██╗
+██╔╝░██║░░░██║░░██║
+███████║░░░██║░░██║
+╚════██║██╗╚█████╔╝
+░░░░░╚═╝╚═╝░╚════╝░
+Made by @the_hacking_zone & @Techno_Trickop
+Developer : @Godmrunal, @Indian_Graphic_Designer, @JonesWarrior
+Choose a Option:
+            [1] Add new accounts
+            [2] Filter all banned accounts
+            [3] Remove specific accounts
+            [4] Subscribe to TrickyAbhi
+            [5] Member Adding (Public & Private Both)
+OverPowered Like Options:
+            [6] Hidden Member Adder (Advanved + Fast)
+            [7] Daily/Active Member Adder
+            [8] Weekly Member Adder
+            [9] Monthly Member Adder
+            [10] Online Member Adder
+            [11] Non Active Member Adder
+            [12] OTP Viewer
+            [13] Reaction Increaser
+            [14] Shares Increaser
+            [15] Change First Name, Last Name & Bio
+            [16] Set Username
+            [17] Set 2 Step
+            [18] Scam Tag [Special]
+            [19] Bulk Message Sender [special]
+            [20] Set Profile Pic
+            [21] Remove Profile Pic
+            [22] Report Spam A User
+Additional Options:
+            [23] Send DM [pm spam]
+            [24] Join channel/group 
+            [25] Leave channel/group
+            [26] Login by phone.csv
+Sub Menus/Advanced Features:
+            [27] Nearby People Adder
+            [28] OverPowered 3 Operations
+            [29] vcf File Adder
+            [30] Login Using Security - Safe Login
+            [31] Telegram Sender
+            [32] Add by Gender
+Extra Options:
+            [33] Extra Line Remover (csv)
+            [34] Views Incrementor
+            [35] Auto Group Creator
+            [36] Group Chat Cloner
+            [37] Limit Checker/Limit Remover v3
+            [38] Account Info Checker
+Exit:
+            [0]  Exit
+
+Enter your choice: Traceback (most recent call last):
+  File "/storage/emulated/0/Download/Telegram/a1/ramexfour.py", line 6702, in <module>
+    main_menu()
+  File "/storage/emulated/0/Download/Telegram/a1/ramexfour.py", line 6387, in main_menu
+    a = int(input('\nEnter your choice: '))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 9] Bad file descriptor
+TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[H[2J[3J██████╗░░█████╗░███╗░░░███╗███████╗██╗░░██╗
+██╔══██╗██╔══██╗████╗░████║██╔════╝╚██╗██╔╝
+██████╔╝███████║██╔████╔██║█████╗░░░╚███╔╝░
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══╝░░░██╔██╗░
+██║░░██║██║░░██║██║░╚═╝░██║███████╗██╔╝╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚═╝
+░░██╗██╗░░░░█████╗░
+░██╔╝██║░░░██╔══██╗
+██╔╝░██║░░░██║░░██║
+███████║░░░██║░░██║
+╚════██║██╗╚█████╔╝
+░░░░░╚═╝╚═╝░╚════╝░
+Made by @the_hacking_zone & @Techno_Trickop
+Developer : @Godmrunal, @Indian_Graphic_Designer, @JonesWarrior
+Choose a Option:
+            [1] Add new accounts
+            [2] Filter all banned accounts
+            [3] Remove specific accounts
+            [4] Subscribe to TrickyAbhi
+            [5] Member Adding (Public & Private Both)
+OverPowered Like Options:
+            [6] Hidden Member Adder (Advanved + Fast)
+            [7] Daily/Active Member Adder
+            [8] Weekly Member Adder
+            [9] Monthly Member Adder
+            [10] Online Member Adder
+            [11] Non Active Member Adder
+            [12] OTP Viewer
+            [13] Reaction Increaser
+            [14] Shares Increaser
+            [15] Change First Name, Last Name & Bio
+            [16] Set Username
+            [17] Set 2 Step
+            [18] Scam Tag [Special]
+            [19] Bulk Message Sender [special]
+            [20] Set Profile Pic
+            [21] Remove Profile Pic
+            [22] Report Spam A User
+Additional Options:
+            [23] Send DM [pm spam]
+            [24] Join channel/group 
+            [25] Leave channel/group
+            [26] Login by phone.csv
+Sub Menus/Advanced Features:
+            [27] Nearby People Adder
+            [28] OverPowered 3 Operations
+            [29] vcf File Adder
+            [30] Login Using Security - Safe Login
+            [31] Telegram Sender
+            [32] Add by Gender
+Extra Options:
+            [33] Extra Line Remover (csv)
+            [34] Views Incrementor
+            [35] Auto Group Creator
+            [36] Group Chat Cloner
+            [37] Limit Checker/Limit Remover v3
+            [38] Account Info Checker
+Exit:
+            [0]  Exit
+
+Enter your choice: Traceback (most recent call last):
+  File "/storage/emulated/0/Download/Telegram/a1/ramexfour.py", line 6702, in <module>
+    main_menu()
+  File "/storage/emulated/0/Download/Telegram/a1/ramexfour.py", line 6387, in main_menu
+    a = int(input('\nEnter your choice: '))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 9] Bad file descriptor
+TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[H[2J[3J██████╗░░█████╗░███╗░░░███╗███████╗██╗░░██╗
+██╔══██╗██╔══██╗████╗░████║██╔════╝╚██╗██╔╝
+██████╔╝███████║██╔████╔██║█████╗░░░╚███╔╝░
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══╝░░░██╔██╗░
+██║░░██║██║░░██║██║░╚═╝░██║███████╗██╔╝╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚═╝
+░░██╗██╗░░░░█████╗░
+░██╔╝██║░░░██╔══██╗
+██╔╝░██║░░░██║░░██║
+███████║░░░██║░░██║
+╚════██║██╗╚█████╔╝
+░░░░░╚═╝╚═╝░╚════╝░
+Made by @the_hacking_zone & @Techno_Trickop
+Developer : @Godmrunal, @Indian_Graphic_Designer, @JonesWarrior
+Choose a Option:
+            [1] Add new accounts
+            [2] Filter all banned accounts
+            [3] Remove specific accounts
+            [4] Subscribe to TrickyAbhi
+            [5] Member Adding (Public & Private Both)
+OverPowered Like Options:
+            [6] Hidden Member Adder (Advanved + Fast)
+            [7] Daily/Active Member Adder
+            [8] Weekly Member Adder
+            [9] Monthly Member Adder
+            [10] Online Member Adder
+            [11] Non Active Member Adder
+            [12] OTP Viewer
+            [13] Reaction Increaser
+            [14] Shares Increaser
+            [15] Change First Name, Last Name & Bio
+            [16] Set Username
+            [17] Set 2 Step
+            [18] Scam Tag [Special]
+            [19] Bulk Message Sender [special]
+            [20] Set Profile Pic
+            [21] Remove Profile Pic
+            [22] Report Spam A User
+Additional Options:
+            [23] Send DM [pm spam]
+            [24] Join channel/group 
+            [25] Leave channel/group
+            [26] Login by phone.csv
+Sub Menus/Advanced Features:
+            [27] Nearby People Adder
+            [28] OverPowered 3 Operations
+            [29] vcf File Adder
+            [30] Login Using Security - Safe Login
+            [31] Telegram Sender
+            [32] Add by Gender
+Extra Options:
+            [33] Extra Line Remover (csv)
+            [34] Views Incrementor
+            [35] Auto Group Creator
+            [36] Group Chat Cloner
+            [37] Limit Checker/Limit Remover v3
+            [38] Account Info Checker
+Exit:
+            [0]  Exit
+
+Enter your choice: Traceback (most recent call last):
+  File "/storage/emulated/0/Download/Telegram/a1/ramexfour.py", line 6702, in <module>
+    main_menu()
+  File "/storage/emulated/0/Download/Telegram/a1/ramexfour.py", line 6387, in main_menu
+    a = int(input('\nEnter your choice: '))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 9] Bad file descriptor
